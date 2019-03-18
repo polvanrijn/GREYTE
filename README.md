@@ -1,2 +1,2 @@
-# GREYTE
-GREYTE eyetracking experiment
+# GREYTE eyetracking experiment
+An eyetracking experiment excecuted in Psychtoolbox using Matlab
